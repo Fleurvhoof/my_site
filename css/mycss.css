@@ -27,3 +27,10 @@ body {
     text-align: center;
     line-height: 55px;
 }
+.container{
+	min-height: 10em;
+	display: block;
+	vertical-align: middle;
+	
+}
+
